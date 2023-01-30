@@ -25,4 +25,4 @@ TARGET_LOCATION = 'YOUR LOCATION\8x8\target\';
 SAVE_LOCATION = 'YOUR LOCATION\data\';
 
 % requires 'natsort.m' and 'natsortfiles.m' codes
-tranformPermeabilityAndTargetTo1D(PERMEABILITY_LOCATION, TARGET_LOCATION, SAVE_LOCATION)
+transformPermeabilityAndTargetTo1D(PERMEABILITY_LOCATION, TARGET_LOCATION, SAVE_LOCATION)

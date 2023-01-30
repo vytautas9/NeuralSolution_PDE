@@ -1,5 +1,5 @@
-function tranformPermeabilityAndTargetTo1D(PERMEABILITY_LOCATION, TARGET_LOCATION, SAVE_LOCATION)
-%tranformPermeabilityAndTargetTo1D.m Transforms and combines generated
+function transformPermeabilityAndTargetTo1D(PERMEABILITY_LOCATION, TARGET_LOCATION, SAVE_LOCATION)
+%transformPermeabilityAndTargetTo1D.m Transforms and combines generated
 %permeability and target maps from 2D per file, to 1D and saves into a
 %single .mat file. 
 % Inputs:
